@@ -1,0 +1,47 @@
+html, body {
+  text-align: justify;
+      margin: 0;
+      padding: 20px;
+      width: 100%;
+      height: 100%;
+      font-family:serif;
+      line-height: 1.5;
+      box-sizing: border-box;
+      font-size: 15px;
+      background-image: url("https://avatars.mds.yandex.net/i?id=fee055830d681876fdb535a0a89e0f15d39b4629-5236341-images-thumbs&n=13");
+
+      background-repeat: no-repeat;  
+background-size: cover; 
+background-position: center;  
+background-attachment: fixed;
+color: aliceblue;
+    }
+    
+    
+    h1 {
+      font-weight: bold;
+    }
+    p {
+      margin-bottom: 1em;
+    }
+    div {
+        width: 400px; 
+  margin: 0 auto;
+    }
+    .block1 {
+        text-align: center;
+
+    }
+    table {
+        text-align: center;
+    }
+ol {
+  text-align: left;
+
+}
+h1,h2 {
+  margin-top: 1,5em;
+}
+a {
+  color:green;
+}
